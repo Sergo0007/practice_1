@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"]{
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 16px; 
+}
+
+button[type="submit"]{
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+li{
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 16px;
+    background-color: #f2f2f2;
+}
